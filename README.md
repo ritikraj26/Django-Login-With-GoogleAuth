@@ -1,1 +1,0 @@
-# Django-Login-With-GoogleAuth-
